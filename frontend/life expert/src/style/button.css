@@ -1,0 +1,29 @@
+.custom-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 12px; /* Rounded corners */
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+/* Primary variant */
+.custom-button.primary {
+  background-color: #4a90e2; /* New blue color */
+  color: white;
+}
+
+.custom-button.primary:hover {
+  background-color: #3b7cc4;
+}
+
+/* Light variant */
+.custom-button.light {
+  background-color: #2f52c2;
+  color: #4a90e2;
+  border: 2px solid #4a90e2;
+}
+
+.custom-button.light:hover {
+  background-color: #1660ab;
+}
