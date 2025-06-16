@@ -20,6 +20,7 @@
     "@mui/x-date-pickers": "^8.5.1",
     "@tabler/icons-react": "^3.34.0",
     "@toolpad/core": "^0.15.0",
+    "axios": "^1.10.0",
     "bootstrap": "^5.3.6",
     "clsx": "^2.1.1",
     "formik": "^2.4.6",
